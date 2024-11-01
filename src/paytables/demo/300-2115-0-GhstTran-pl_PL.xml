@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="pl_PL">
+<phrase key="softwareId" value="ID oprogramowania"/>
+<phrase key="transactionId" value="ID transakcji"/>
+<phrase key="totalWins" value="Wygrane łączne"/>
+<phrase key="totalWager" value="Zakład łączny"/>
+<phrase key="wagerType" value="Typ zakładu"/>
+<phrase key="BUY" value="Kup"/>
+<phrase key="TRY" value="Spróbuj"/>
+<phrase key="wordToMatch" value="Słowa do dopasowania"/>
+<phrase key="drawnLetters" value="Wylosowane litery"/>
+<phrase key="youMatched" value="Dopasowano"/>
+<phrase key="bonusLetters" value="Bonusowe litery"/>
+</translation>
